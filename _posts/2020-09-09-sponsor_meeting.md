@@ -1,9 +1,9 @@
 ---
 title: Discussing Decision Support Tool with Dr.Yanushkevich
-tags: Sponsor Meeting
+tags: SponsorMeeting
 ---
 
-# Time: 4:00 PM
+## Time: 4:00 PM
 
 ## Attendees
 - Svetlana Yanushkevich (Potential Project Sponsor)
