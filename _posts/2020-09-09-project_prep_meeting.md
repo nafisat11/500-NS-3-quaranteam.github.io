@@ -1,7 +1,9 @@
 ---
-title: Meeting to prepare for Covid Decision Support Tool Project
+title: Preparing for Covid Decision Support Tool Project
 tags: Meeting
 ---
+
+Time: 3:30 PM
 
 Attendees:
 - Muhammad Farooq
