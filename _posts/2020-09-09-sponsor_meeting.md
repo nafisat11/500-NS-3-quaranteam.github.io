@@ -5,7 +5,7 @@ tags: Sponsor Meeting
 
 # Time: 4:00 PM
 
-# Attendees
+## Attendees
 - Svetlana Yanushkevich (Potential Project Sponsor)
 - Muhammad Farooq
 - Sachinee Wijetilleke
@@ -14,7 +14,7 @@ tags: Sponsor Meeting
 - Nafisa Tabassum
 - Linh Nguyen
 
-# Meeting Notes
+## Meeting Notes
 
 **Background**
 - In her Biometric lab, were looking at the collection of data using multiple sensors, don't develop sensors, only collect data, and then perform data analytics on the data
