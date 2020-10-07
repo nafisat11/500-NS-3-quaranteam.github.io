@@ -25,3 +25,13 @@ Each heading in the post uses heading 2 (##) in Markdown and titles are bold (*)
 
 *Background*
 ```
+### Logbook Requirements
+
+The logbook must contain:
+- timestamp of events and logs
+- updated information about team meetings
+- tasks assigned to each member and the deadlines
+- noting if a task is delayed or not delivered
+- action items of meetings with the sponsor and academic advisor
+- any disagreements on tasks
+- any other important info
