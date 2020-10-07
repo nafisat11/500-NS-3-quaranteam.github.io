@@ -1,5 +1,5 @@
 ---
-title: Preparing for Covid Decision Support Tool Project
+title: Discuss Initial Steps in Project
 tags: GroupMeeting
 ---
 
@@ -21,12 +21,9 @@ tags: GroupMeeting
 - Discussed working on the team contract
 
 ## Assigned Tasks and Deadlines
-- Research technologies
-    - Deadline: Oct 11
-    - Members:
-        - Abhijeet
-        - Muhammad (Usman)
-        - Pia
+- Initial Project Proposal
+    - Deadline: Sept 14
+    - All members
 
 - COVID Research
     - Deadline: Sept 22
@@ -34,3 +31,11 @@ tags: GroupMeeting
         - Nafisa
         - Linh
         - Sachinee
+
+- Research technologies
+    - Deadline: Oct 11
+    - Members:
+        - Abhijeet
+        - Muhammad (Usman)
+        - Pia
+
